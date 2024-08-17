@@ -1,0 +1,13 @@
+main{
+    margin: 0;
+    padding: 0;
+    width: 30%;
+    height: 950px;
+    background-color: hsl(0, 0%, 12%);
+    border-radius: 20px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
